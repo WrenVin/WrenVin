@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincent Wren
-- 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me at wrenvin@gmail.com
 
